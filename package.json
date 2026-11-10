@@ -1,0 +1,13 @@
+{
+  "name": "@tickets-system/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/workspace": "24.0.6",
+    "nx": "24.0.6"
+  },
+  "packageManager": "pnpm@12.18.0"
+}
